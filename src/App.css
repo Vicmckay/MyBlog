@@ -4,6 +4,7 @@ body {
 
 h2 {
   padding-left: 10px;
+  padding-top: 10px;
 }
 
 h3 {
@@ -80,6 +81,10 @@ img {
   width: 900px;
 }
 
+.itemDescription {
+  padding: 10px;
+}
+
 .aboutMePicture img {
   width: 250px;
 }
@@ -89,7 +94,8 @@ img {
 }
 
 .sideContent {
-  height: 450px;
+  height: 480px;
+  padding-top: 0;
 }
 
 .footer {

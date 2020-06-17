@@ -9,7 +9,7 @@ const MainContent = () => {
           title="Tremblez !"
           subtitle="Le retour de Galactus"
           picture={<img alt="Galactus" src="/assets/galactus.jpg" />}
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed augue et turpis tempor tempus. Morbi at vulputate dui. Nunc pulvinar dictum est, ac volutpat velit accumsan id. Morbi maximus mattis nisi, in commodo nisi iaculis nec. Nulla dictum erat ac rhoncus mattis. Nulla odio metus, euismod vitae aliquet vel, malesuada sed orci. Vivamus semper luctus ultricies. Maecenas in lacus ut ante facilisis rhoncus. Proin ut arcu venenatis, convallis libero in, faucibus justo. Fusce imperdiet, augue vel sollicitudin tincidunt, dui odio fermentum neque, aliquet ornare orci diam vehicula purus. Donec id odio pulvinar, vehicula nulla non, finibus tortor. Phasellus cursus sodales malesuada. Duis eu faucibus tortor. Quisque lobortis est vel dolor blandit, eu aliquet urna congue. Aliquam ac nunc felis. Maecenas porttitor eros a ipsum volutpat suscipit."
+          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed augue et turpis tempor tempus. Morbi at vulputate dui. Nunc pulvinar dictum est, ac volutpat velit accumsan id. Morbi maximus mattis nisi, in commodo nisi iaculis nec. Nulla dictum erat ac rhoncus mattis. Nulla odio metus, euismod vitae aliquet vel, malesuada sed orci. Vivamus semper luctus ultricies. Maecenas in lacus ut ante facilisis rhoncus. Proin ut arcu venenatis, convallis libero in, faucibus justo. Fusce imperdiet, augue vel sollicitudin tincidunt, dui odio fermentum neque, aliquet ornare orci diam vehicula purus. Donec id odio pulvinar, vehicula nulla non, finibus tortor."
         ></Item>
       </div>
       <div>

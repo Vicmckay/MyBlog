@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# MyBlog avec React
+
+Projet de création d'une page de blog avec React. Le but de l'exercice est de s'initier à l'utilisation de components et aux props.
+
+## Capture d'écran
+
+![Alt text](.assets/capture_myblog.png?raw=true "Capture")
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
@@ -66,4 +74,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # my-repository
