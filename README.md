@@ -4,7 +4,9 @@ Projet de création d'une page de blog avec React. Le but de l'exercice est de s
 
 ## Capture d'écran
 
-![Alt text](./assets/capture_myblog.png?raw=true "Capture")
+<div >
+    <img src="./assets/capture_myblog.png" width="800px"> </img> 
+</div>
 
 ## Available Scripts
 
