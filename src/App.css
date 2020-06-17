@@ -1,38 +1,103 @@
-.App {
+body {
+  background-color: lightgrey;
+}
+
+h2 {
+  padding-left: 10px;
+}
+
+h3 {
+  padding-left: 10px;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: lightgrey;
+}
+
+.header {
+  background-color: white;
+  height: 120px;
+}
+
+.title {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.baseline {
+  text-align: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.navigation-menu {
+  background-color: #333;
+  height: 50px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  align-items: center;
+  color: white;
+  padding-right: 20px;
+}
+
+.navigation-menu-left-items {
+  display: flex;
+  flex: 1;
+  padding-left: 20px;
+}
+
+.link {
+  margin-right: 50px;
+}
+
+.content {
+  display: flex;
+}
+
+.item {
+  background-color: white;
+}
+.mainContent {
+  width: 900px;
+  margin-right: 20px;
+  margin-right: 50px;
+}
+
+.sideContent {
+  width: 250px;
+  background-color: white;
+  margin-top: 20px;
+}
+
+.columnLeft {
+  margin-bottom: 20px;
+}
+
+.columnLeftFirst {
+  margin-bottom: 20px;
+}
+
+img {
+  width: 900px;
+}
+
+.aboutMePicture img {
+  width: 250px;
+}
+
+.aboutMeTitle {
+  text-align: center;
+}
+
+.sideContent {
+  height: 450px;
+}
+
+.footer {
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  height: 30px;
+  background-color: black;
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  margin-top: 20px;
 }
